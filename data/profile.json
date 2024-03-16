@@ -16,6 +16,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/JosephAlves0/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
         "name": "MySql",
         "logo": "https://raw.githubusercontent.com/JosephAlves0/js-developer-portfolio/main/data/imgs/mysql.png"
       }
