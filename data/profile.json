@@ -39,13 +39,28 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "DIO - Bootcamp Java",
+      "url": "https://github.com/JosephAlves0/dio-bootcamp-java",
+      "github": true
+    },
+    {
+      "name": "NodeJs do Zero a Maestria",
+      "url": "https://github.com/JosephAlves0/nodejs_do_zero_a_maestria",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "DIO - Linux Projeto IAC",
+      "url": "https://github.com/JosephAlves0/linux-projeto1-iac",
       "github": true
     }
   ],
